@@ -21,4 +21,4 @@ A potentiometer acts as a variable voltage divider, providing an analog voltage 
 3.Robotics: Joint or arm control.
 4.DIY projects like Camera Pan-Tilt mechanisms.
 
-**Output** :
+**Output** : https://drive.google.com/file/d/1xPUrbbXkHMUeNfhi4M-GFCmwWkghTHCk/view?usp=drive_link
